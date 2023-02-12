@@ -1,0 +1,9 @@
+Name: Muhammad Qasim
+Class: CSC 258
+
+Extra file: million_words.txt
+    -   contains a million words, imported as a string to pass to my test functions'
+
+Test functions:
+    test_word_count() tests word_count()
+    test_mt_word_count() tests mt_word_count()
